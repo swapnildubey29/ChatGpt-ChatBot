@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Brad Traversy",
+  "author": "Swapnil Dubey",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
